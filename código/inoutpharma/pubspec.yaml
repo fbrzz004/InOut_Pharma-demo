@@ -1,0 +1,68 @@
+name: inoutpharma
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  intl: ^0.17.0
+  google_maps_flutter: ^2.2.7
+  google_fonts: ^6.2.1
+  shared_preferences: ^2.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/logo.png
+    - assets/images/oferta1.png
+    - assets/images/oferta2.png
+    - assets/images/oferta3.png
+    - assets/images/oferta4.png
+    - assets/images/cuidar_medio_ambiente.png
+    - assets/images/explora_ahora.png
+    - assets/images/categoria1.png
+    - assets/images/categoria2.png
+    - assets/images/categoria3.png
+    - assets/images/categoria4.png
+    - assets/images/categoria5.png
+    - assets/images/tienda_fondo1.png
+    - assets/images/tienda_fondo2.png
+    - assets/images/tienda_fondo3.png
+    - assets/images/producto1.png
+    - assets/images/producto2.png
+    - assets/images/producto3.png
+    - assets/images/producto4.png
+    - assets/images/producto5.png
+    - assets/images/producto6.png
+    - assets/images/producto7.png
+    - assets/images/producto8.png
+    - assets/images/producto9.png
+    - assets/images/producto10.png
+    - assets/images/producto11.png
+    - assets/images/producto12.png
+    - assets/images/producto13.png
+    - assets/images/producto14.png
+    - assets/images/producto15.png
+    - assets/images/noticia1.png
+    - assets/images/noticia2.png
+    - assets/images/noticia3.png
+    - assets/images/noticia4.png
+    - assets/images/noticia5.png
+    - assets/images/noticia6.png
+    - assets/images/noticia7.png
+    - assets/images/noticia8.png
+    - assets/images/noticia9.png
+    - assets/images/noticia10.png
+    - assets/images/avatar_generico1.png
+    - assets/images/avatar_generico2.png
+    - assets/images/avatar_generico3.png
