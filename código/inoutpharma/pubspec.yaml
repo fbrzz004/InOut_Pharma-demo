@@ -1,5 +1,5 @@
 name: inoutpharma
-description: "A new Flutter project."
+description: "A new pharma."
 publish_to: 'none'
 version: 1.0.0+1
 
@@ -14,11 +14,13 @@ dependencies:
   google_maps_flutter: ^2.2.7
   google_fonts: ^6.2.1
   shared_preferences: ^2.2.0
+  font_awesome_flutter: ^10.0.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^2.0.0
+  flutter_launcher_icons: ^0.13.1
 
 flutter:
   uses-material-design: true
@@ -66,3 +68,8 @@ flutter:
     - assets/images/avatar_generico1.png
     - assets/images/avatar_generico2.png
     - assets/images/avatar_generico3.png
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/icon.png"
